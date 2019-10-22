@@ -1,4 +1,4 @@
-# PaaS-TA 3.1 가이드 문서
+# PaaS-TA 3.1 Guide : Penne
 
 ## 플랫폼 설치 가이드
 - [설치 파일 다운로드 받기](./Download_Page.md)
